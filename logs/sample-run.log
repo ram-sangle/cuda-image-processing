@@ -4,7 +4,7 @@ Converting to grayscale...
 Applying Sobel edge detection...
 Saving output images...
 
-Grayscale Image: eiffle-tower.bmp
-Sobel Edge Detection Image: eiffle-tower.bmp
+Grayscale Image: gray-eiffle-tower.bmp
+Sobel Edge Detection Image: edge-eiffle-tower.bmp
 
 Process completed successfully.
