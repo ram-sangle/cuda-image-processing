@@ -28,9 +28,9 @@ __global__ void sobel_kernel(unsigned char* input, unsigned char* output, int wi
 }
 
 int main() {
-    std::string input_path = "data/input_images/sample.bmp";
-    std::string gray_path = "images/gray.bmp";
-    std::string edge_path = "images/edge.bmp";
+    std::string input_path = "input_images/eiffle-tower.bmp";
+    std::string gray_path = "images/gray-eiffle-tower.bmp";
+    std::string edge_path = "images/edge-eiffle-tower.bmp";
 
     cv::Mat input_img = cv::imread(input_path, cv::IMREAD_COLOR);
     int width = input_img.cols;
