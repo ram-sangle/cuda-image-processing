@@ -1,10 +1,7 @@
 
-Loading image...
-Converting to grayscale...
-Applying Sobel edge detection...
-Saving output images...
+Batch image processing started.
+Terminal output:
+Processing eiffle-tower.bmp
 
-Grayscale Image: gray-eiffle-tower.bmp
-Sobel Edge Detection Image: edge-eiffle-tower.bmp
-
-Process completed successfully.
+Image processing completed using CUDA.
+Batch image processing completed.
